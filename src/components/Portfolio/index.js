@@ -5,61 +5,61 @@ function Portfolio() {
     const projects = [
         {
             name: 'Budget Tracker',
-            img: 'https://github.com/andytheelf/react-portfolio/blob/master/src/img/bud2.PNG',
+            img: 'https://github.com/andytheelf/react-portfolio/blob/master/src/img/bud2.PNG?raw=true',
             github: 'https://github.com/andytheelf/budget-2',
             deployed: 'https://fathomless-coast-68447.herokuapp.com/'
         },
         {
             name: 'Quiz Time!',
-            img: 'https://github.com/andytheelf/react-portfolio/blob/master/src/img/quiz.png',
+            img: 'https://github.com/andytheelf/react-portfolio/blob/master/src/img/quiz.png?raw=true',
             github: 'https://github.com/andytheelf/It-s-Quiz-Time-',
             deployed: 'https://github.com/andytheelf/andytheelf-quiz.github.io'
         },
         {
             name: 'The Informed Artist',
-            img: 'https://github.com/andytheelf/react-portfolio/blob/master/src/img/print.jpg',
+            img: 'https://github.com/andytheelf/react-portfolio/blob/master/src/img/print.jpg?raw=true',
             github: 'https://github.com/roxyvaught/The-Informed-Artist',
             deployed: 'https://the-informed-artist.herokuapp.com/'
         },
         {
             name: 'Have You Read It!',
-            img: 'https://github.com/andytheelf/react-portfolio/blob/master/src/img/read.PNG',
+            img: 'https://github.com/andytheelf/react-portfolio/blob/master/src/img/read.PNG?raw=true',
             github: 'https://github.com/andytheelf/Have-you-read-it-',
             deployed: 'https://ut-project-1-group-5.github.io/project-1-group-5/'
         },
         {
             name: 'Note Taker',
-            img: 'https://github.com/andytheelf/react-portfolio/blob/master/src/img/sampleNotes.png',
+            img: 'https://github.com/andytheelf/react-portfolio/blob/master/src/img/sampleNotes.png?raw=true',
             github: 'https://github.com/andytheelf/NoteTaker',
             deployed: 'https://powerful-tundra-40865.herokuapp.com/'
         },
         {
             name: 'Password',
-            img: 'https://github.com/andytheelf/react-portfolio/blob/master/src/img/password.png',
+            img: 'https://github.com/andytheelf/react-portfolio/blob/master/src/img/password.png?raw=true',
             github: 'https://github.com/andytheelf/Password-Generator',
             deployed: 'https://github.com/andytheelf/andytheelf.password.github.io'
         },
         {
             name: 'Run Buddy',
-            img: 'https://github.com/andytheelf/react-portfolio/blob/master/src/img/RunBuddy.jpg',
+            img: 'https://github.com/andytheelf/react-portfolio/blob/master/src/img/RunBuddy.jpg?raw=true',
             github: 'https://github.com/andytheelf/Projects',
             deployed: 'https://github.com/andytheelf/andytheelf.portfolio.github.io'
         },
         {
             name: 'Tech Blog',
-            img: 'https://github.com/andytheelf/react-portfolio/blob/master/src/img/blog.PNG',
+            img: 'https://github.com/andytheelf/react-portfolio/blob/master/src/img/blog.PNG?raw=true',
             github: 'https://github.com/andytheelf/tech-blog3',
             deployed: 'https://morning-taiga-89139.herokuapp.com/'
         },
         {
             name: 'Weather Finder',
-            img: 'https://github.com/andytheelf/react-portfolio/blob/master/src/img/weather.png',
+            img: 'https://github.com/andytheelf/react-portfolio/blob/master/src/img/weather.png?raw=true',
             github: 'https://github.com/andytheelf/weatherfinder',
             deployed: 'https://github.com/andytheelf/andytheelf.directory.github.io'
         },
         {
             name: 'Weekday Scheduler',
-            img: 'https://github.com/andytheelf/react-portfolio/blob/master/src/img/schedule.png',
+            img: 'https://github.com/andytheelf/react-portfolio/blob/master/src/img/schedule.png?raw=true',
             github: 'https://github.com/andytheelf/Weekday-Schedule',
             deployed: 'https://github.com/andytheelf/andytheelf-scheduler.github.io'
         }
