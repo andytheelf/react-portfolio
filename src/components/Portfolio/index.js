@@ -5,61 +5,61 @@ function Portfolio() {
     const projects = [
         {
             name: 'Budget Tracker',
-            img: '',
+            img: 'https://github.com/andytheelf/react-portfolio/blob/master/src/img/bud2.PNG',
             github: 'https://github.com/andytheelf/budget-2',
             deployed: 'https://fathomless-coast-68447.herokuapp.com/'
         },
         {
             name: 'Quiz Time!',
-            img: '',
+            img: 'https://github.com/andytheelf/react-portfolio/blob/master/src/img/quiz.png',
             github: 'https://github.com/andytheelf/It-s-Quiz-Time-',
             deployed: 'https://github.com/andytheelf/andytheelf-quiz.github.io'
         },
         {
             name: 'The Informed Artist',
-            img: '',
+            img: 'https://github.com/andytheelf/react-portfolio/blob/master/src/img/print.jpg',
             github: 'https://github.com/roxyvaught/The-Informed-Artist',
             deployed: 'https://the-informed-artist.herokuapp.com/'
         },
         {
             name: 'Have You Read It!',
-            img: '',
+            img: 'https://github.com/andytheelf/react-portfolio/blob/master/src/img/read.PNG',
             github: 'https://github.com/andytheelf/Have-you-read-it-',
             deployed: 'https://ut-project-1-group-5.github.io/project-1-group-5/'
         },
         {
             name: 'Note Taker',
-            img: '',
+            img: 'https://github.com/andytheelf/react-portfolio/blob/master/src/img/sampleNotes.png',
             github: 'https://github.com/andytheelf/NoteTaker',
             deployed: 'https://powerful-tundra-40865.herokuapp.com/'
         },
         {
             name: 'Password',
-            img: '',
+            img: 'https://github.com/andytheelf/react-portfolio/blob/master/src/img/password.png',
             github: 'https://github.com/andytheelf/Password-Generator',
             deployed: 'https://github.com/andytheelf/andytheelf.password.github.io'
         },
         {
             name: 'Run Buddy',
-            img: '',
+            img: 'https://github.com/andytheelf/react-portfolio/blob/master/src/img/RunBuddy.jpg',
             github: 'https://github.com/andytheelf/Projects',
             deployed: 'https://github.com/andytheelf/andytheelf.portfolio.github.io'
         },
         {
             name: 'Tech Blog',
-            img: '',
+            img: 'https://github.com/andytheelf/react-portfolio/blob/master/src/img/blog.PNG',
             github: 'https://github.com/andytheelf/tech-blog3',
             deployed: 'https://morning-taiga-89139.herokuapp.com/'
         },
         {
             name: 'Weather Finder',
-            img: '',
+            img: 'https://github.com/andytheelf/react-portfolio/blob/master/src/img/weather.png',
             github: 'https://github.com/andytheelf/weatherfinder',
             deployed: 'https://github.com/andytheelf/andytheelf.directory.github.io'
         },
         {
             name: 'Weekday Scheduler',
-            img: '',
+            img: 'https://github.com/andytheelf/react-portfolio/blob/master/src/img/schedule.png',
             github: 'https://github.com/andytheelf/Weekday-Schedule',
             deployed: 'https://github.com/andytheelf/andytheelf-scheduler.github.io'
         }
