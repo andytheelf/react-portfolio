@@ -7,7 +7,7 @@ function About() {
         <h1 className="name">About Me</h1>
         <div className="row justify-content-center">
             <div className="col-10" id="about-section">
-                <img className="mb-5" src="https://github.com/andytheelf/react-portfolio/blob/master/src/img/blah.jpg?raw=true" alt="Andrea Ballew"/>
+                <img className="mb-5" src="https://github.com/andytheelf/react-portfolio/blob/master/src/img/blah2.jpg?raw=true" alt="Andrea Ballew"/>
                 <p>
                  Lorem laboris eu laboris irure ex fugiat. Dolor et magna ipsum ullamco veniam aliquip fugiat anim sit Lorem. Aliquip elit commodo enim laboris nostrud dolore voluptate ex amet. Officia est dolore dolore nostrud non consectetur nulla elit aute occaecat veniam. Fugiat aliqua adipisicing esse consequat sunt laboris nostrud reprehenderit. Lorem laborum nostrud ipsum qui esse anim. Laboris cupidatat minim ex mollit incididunt excepteur magna.
                 </p>
