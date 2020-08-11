@@ -26,7 +26,7 @@ This project was created with [Create React App](https://github.com/facebook/cre
 ![](Capture.jpg)
 
 ### Screenshot of Portfolio #2
-![](Capture2.jpg)
+![](Capture2.png)
 
 ## Install
 If you want a working version 
