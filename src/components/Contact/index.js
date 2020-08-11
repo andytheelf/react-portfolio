@@ -58,7 +58,7 @@ function Contact() {
                         <p className="error-text">{errorMessage}</p>
                     </div>
                 )}
-                <button className='btn btncolor' style={{ marginTop:'3px', borderStyle: 'outset'}} type="submit"><img style={{ borderStyle: 'outset' }} src="https://img.icons8.com/nolan/80/nui2.png" alt='submit'/></button>
+                <button className='btn btncolor' style={{ marginTop:'3px', borderStyle: 'outset'}} type="submit"><img style={{ borderStyle: 'outset' }} /></button>
             </form>
         </section>
     );

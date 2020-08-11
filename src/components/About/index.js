@@ -3,7 +3,7 @@ import React from 'react';
 function About() {
     return(
     <section className="title">
-        <img style={{ marginTop: '3vh'}} src="https://img.icons8.com/clouds/100/000000/about.png" alt='about' />
+        <img style={{ marginTop: '3vh'}} src="https://img.icons8.com/clouds/100/000000/clouds.png" alt='about' />
         <h1 className="name">About Me</h1>
         <div className="row justify-content-center">
             <div className="col-10" id="about-section">

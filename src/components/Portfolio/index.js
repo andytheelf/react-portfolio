@@ -4,12 +4,6 @@ function Portfolio() {
 
     const projects = [
         {
-            name: 'Budget Tracker',
-            img: 'https://github.com/andytheelf/react-portfolio/blob/master/src/img/bud2.PNG?raw=true',
-            github: 'https://github.com/andytheelf/budget-2',
-            deployed: 'https://fathomless-coast-68447.herokuapp.com/'
-        },
-        {
             name: 'Quiz Time!',
             img: 'https://github.com/andytheelf/react-portfolio/blob/master/src/img/quiz.png?raw=true',
             github: 'https://github.com/andytheelf/It-s-Quiz-Time-',
@@ -41,7 +35,7 @@ function Portfolio() {
         },
         {
             name: 'Run Buddy',
-            img: 'https://github.com/andytheelf/react-portfolio/blob/master/src/img/RunBuddy.jpg?raw=true',
+            img: 'https://github.com/andytheelf/react-portfolio/blob/master/src/img/RunBuddy2.jpg?raw=true',
             github: 'https://github.com/andytheelf/Projects',
             deployed: 'https://github.com/andytheelf/andytheelf.portfolio.github.io'
         },
@@ -62,7 +56,13 @@ function Portfolio() {
             img: 'https://github.com/andytheelf/react-portfolio/blob/master/src/img/schedule.png?raw=true',
             github: 'https://github.com/andytheelf/Weekday-Schedule',
             deployed: 'https://github.com/andytheelf/andytheelf-scheduler.github.io'
-        }
+        },
+        {
+            name: 'Budget Tracker',
+            img: 'https://github.com/andytheelf/react-portfolio/blob/master/src/img/bud2.PNG?raw=true',
+            github: 'https://github.com/andytheelf/budget-2',
+            deployed: 'https://fathomless-coast-68447.herokuapp.com/'
+        },
 
     ]
 
@@ -79,7 +79,7 @@ function Portfolio() {
                             <div className="card-body">
                                 <h3 className="card-title portfolio">{ projects[0].name }</h3>
                                 <a href={ projects[0].github } target='_blank' rel="noopener noreferrer"><img src="https://img.icons8.com/dusk/64/000000/github.png" alt="Github" className="icon"/></a>
-                                <a href={ projects[0].deployed } target='_blank' rel="noopener noreferrer"><img src="https://img.icons8.com/dusk/64/000000/cheap.png" alt="Deployed" className="icon"/></a>
+                                <a href={ projects[0].deployed } target='_blank' rel="noopener noreferrer"><img src="https://img.icons8.com/dusk/64/000000/checklist.png" alt="Deployed" className="icon"/></a>
                             </div>
                         </div>
                     </div>
@@ -183,7 +183,7 @@ function Portfolio() {
                             <div className="card-body">
                                 <h3 className="card-title portfolio">{ projects[9].name }</h3>
                                 <a href={ projects[9].github } target='_blank' rel="noopener noreferrer"><img src="https://img.icons8.com/dusk/64/000000/github.png" alt="Github" className="icon"/></a>
-                                <a href={ projects[9].deployed } target='_blank' rel="noopener noreferrer"><img src="https://img.icons8.com/dusk/64/000000/checklist.png" alt="Deployed" className="icon"/></a>
+                                <a href={ projects[9].deployed } target='_blank' rel="noopener noreferrer"><img src="https://img.icons8.com/dusk/64/000000/cheap.png" alt="Deployed" className="icon"/></a>
                             </div>
                         </div>
                     </div>

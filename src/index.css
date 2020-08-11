@@ -1,3 +1,7 @@
+html {
+  background-color: var(--white);
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -5,9 +9,50 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url("./img/clouds.jpg");
+  
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+:root {
+  --green: #225455;
+  --white: #494848da;
+  --poppy: #422766;
+  --blue: #180297;
+  --purple: #5c1e4c;
+}
+
+ /* .footer
+ {
+  background-image: url("./img/cloud2.jpg");
+}  */
+
+.App {
+  background-color: var(--white);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  color: var(--gray);
+}
+
+.portfolio {
+  color: var(--gray);
+}
+
+p {
+  color: var(--white);
+  font-size: large;
+}
+
+
+.navcolor {
+  color: var(--gray);
 }
