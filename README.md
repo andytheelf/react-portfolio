@@ -22,10 +22,10 @@ This project was created with [Create React App](https://github.com/facebook/cre
 
 ### This application uses React, SCSS, Node, JS, CSS, HTML. A simple react portfolio!
 
-### Screenshot of the VSCode console injecting the SQL commands via the JS models.
+### Screenshot of Portfolio #1
 ![](Capture.jpg)
 
-### Screenshot of the program Insomnia, used to test the routes and tables.
+### Screenshot of Portfolio #2
 ![](Capture2.jpg)
 
 ## Install
