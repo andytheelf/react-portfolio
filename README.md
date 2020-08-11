@@ -8,7 +8,6 @@ This project was created with [Create React App](https://github.com/facebook/cre
 <img src="https://img.shields.io/badge/Node.js-success"/>
 <img src="https://img.shields.io/badge/SCSS-blue"/>  
 <img src="https://img.shields.io/badge/Insomnia-orange"/>
-<img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square">
 </p>
 
 
