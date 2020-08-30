@@ -7,7 +7,7 @@ function Resume() {
                 
                 <div style={{ marginTop: '20px' }}>
                     <h3 className='portfolio'>Resume</h3>
-                    <a href=''className='link'>
+                    <a href='https://www.linkedin.com/in/andreaballewprofile/'className='link'>
                         <img src="https://img.icons8.com/dusk/64/000000/linkedin.png" alt='linkedin'/>
                     </a>
                 </div>
